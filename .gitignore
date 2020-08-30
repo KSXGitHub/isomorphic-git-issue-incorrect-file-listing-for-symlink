@@ -16,6 +16,7 @@ temp.*
 *.temp
 *.tern-project
 *.tern-project.json
+symlink-to-ignored-directory
 
 # Logs
 logs
